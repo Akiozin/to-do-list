@@ -23,7 +23,3 @@ Criar uma aplicação simples de lista de tarefas (To-Do List) utilizando **Reac
 
 ## 🤖 Auxílio de IA
 Este projeto foi desenvolvido com o auxílio de Inteligência Artificial para otimizar a escrita do código e documentação.
-
-## 📜 Licença
-Este projeto é de uso livre. Sinta-se à vontade para modificar e compartilhar!
-
